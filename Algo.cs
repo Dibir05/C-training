@@ -37,7 +37,7 @@ class Program
     static void Main()
     {
         int[] a = new int[8] { 1, 2, 3, 4, 5, 6, 7,8};
-        var bb = Str(a);
+        var bbbb = Str(a);
         foreach (int[] row in bb)
         {
             foreach (int number in row)
